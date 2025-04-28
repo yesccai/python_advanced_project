@@ -1,4 +1,4 @@
-# python-advanced
+# python-advanced_project
 
 > **Python高级编程学习项目**  
 > 系统性练习面向对象编程（OOP）、设计模式、异常处理、日志记录与并发编程，夯实编程基本功。
